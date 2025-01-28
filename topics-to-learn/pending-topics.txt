@@ -1,0 +1,4 @@
+jenkins
+nginx
+docker
+kubernetes
