@@ -5,9 +5,6 @@ coke
 biscuits
 tea 
 bread
-<<<<<<< HEAD
 ice cream
 waffles
-=======
 grapes
->>>>>>> f89ef45e4cc40be2d9677c065ae5b5ba7724cbc5
