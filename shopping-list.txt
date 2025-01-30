@@ -8,3 +8,7 @@ bread
 ice cream
 waffles
 grapes
+rice
+vegatables
+coke
+maggi
