@@ -12,3 +12,5 @@ rice
 vegatables
 coke
 maggi
+snickers
+lays 
