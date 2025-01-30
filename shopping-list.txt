@@ -4,6 +4,8 @@ thumbsup pet bottle
 coke tins
 biscuits
 lock
+ketchup
+mustard
 tea
 bread
 juice
