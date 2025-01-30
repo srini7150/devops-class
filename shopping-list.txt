@@ -5,3 +5,5 @@ coke
 biscuits
 tea 
 bread
+ice cream
+waffles
