@@ -8,4 +8,5 @@ bread
 ice cream
 waffles
 grapes
-monster energy drink
+energy drink
+fruit juice
