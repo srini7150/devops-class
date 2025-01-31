@@ -1,6 +1,0 @@
-jenkins
-nginx
-tomcat
-docker
-kubernetes
-terraform
