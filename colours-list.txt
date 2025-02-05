@@ -4,3 +4,4 @@ blue
 yellow
 maroon
 black
+white
