@@ -1,3 +1,7 @@
 green
 red
 blue
+yellow
+maroon
+black
+white
